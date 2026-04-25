@@ -1,6 +1,6 @@
 # 👩‍💻 Fernanda Menezes
 
-**Analista de Projetos | Agile | Dados | Operações**
+**Analista de Projetos | Dados | Power BI | Agile**
 
 🎯 Foco em gestão de projetos, análise de performance e melhoria de processos
 
@@ -23,6 +23,24 @@ Tenho sólida experiência em gerenciamento de projetos de TI, com foco no acomp
 ![Microsoft Planner](https://img.shields.io/badge/Microsoft_Planner-3178C6?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+## 🚀 Projetos em Destaque
+
+### 📊 Dashboard de Performance de Times
+- Análise de indicadores de produtividade
+- Construído com Power BI
+- Foco em gestão ágil e tomada de decisão
+
+🔗 [Acessar projeto](link)
+
+---
+
+### 📈 Indicador CAPEX x OPEX
+- Controle financeiro mensal
+- Visualização de custos e investimentos
+- Apoio à tomada de decisão estratégica
+
+🔗 [Acessar projeto](link)
 
 ## 🔗 Conecte-se comigo
 
