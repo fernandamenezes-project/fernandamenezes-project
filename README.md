@@ -31,7 +31,7 @@ Tenho sólida experiência em gerenciamento de projetos de TI, com foco no acomp
 - Construído com Power BI
 - Foco em gestão ágil e tomada de decisão
 
-🔗 [Acessar projeto]([link](https://github.com/fernandamenezes-project/project-performance-dashboard-powerbi))
+🔗 [Acessar projeto]((https://github.com/fernandamenezes-project/project-performance-dashboard-powerbi))
 
 ---
 
@@ -40,7 +40,7 @@ Tenho sólida experiência em gerenciamento de projetos de TI, com foco no acomp
 - Visualização de custos e investimentos
 - Apoio à tomada de decisão estratégica
 
-🔗 [Acessar projeto]([link](https://github.com/fernandamenezes-project/capex-opex-hours-dashboard))
+🔗 [Acessar projeto](https://github.com/fernandamenezes-project/capex-opex-hours-dashboard))
 
 ## 🔗 Conecte-se comigo
 
