@@ -42,6 +42,10 @@ Tenho sólida experiência em gerenciamento de projetos de TI, com foco no acomp
 
 🔗 [Acessar projeto](https://github.com/fernandamenezes-project/capex-opex-hours-dashboard))
 
+## 📊 Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandamenezes-project&show_icons=true&theme=default)
+
 ## 🔗 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fernandamsousa/)
