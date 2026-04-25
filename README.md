@@ -31,7 +31,7 @@ Tenho sólida experiência em gerenciamento de projetos de TI, com foco no acomp
 - Construído com Power BI
 - Foco em gestão ágil e tomada de decisão
 
-🔗 [Acessar projeto]((https://github.com/fernandamenezes-project/project-performance-dashboard-powerbi))
+🔗 [Acessar projeto](https://github.com/fernandamenezes-project/project-performance-dashboard-powerbi)
 
 ---
 
